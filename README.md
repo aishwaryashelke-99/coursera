@@ -1,2 +1,2 @@
-# verbose-meme
+# Coursera
 coursera
